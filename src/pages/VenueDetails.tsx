@@ -19,7 +19,7 @@ export const VenueDetails = () => {
   const venue = {
     id: '1',
     name: 'Royal Palace Banquet',
-    location: 'Mumbai, Maharashtra',
+    location: 'Gandhipuram',
     price: 150000,
     capacity: 500,
     rating: 4.8,
